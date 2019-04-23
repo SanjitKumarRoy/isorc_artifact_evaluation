@@ -1,0 +1,1 @@
+./inputFiles/example.txt	13	6	7	2	2	0.586	38	35.0	0.0932

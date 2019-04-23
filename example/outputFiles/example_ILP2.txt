@@ -1,0 +1,25 @@
+Number of Nodes = 13	(Task Nodes = 6	Message Nodes = 7)
+Processors = 2
+Buses = 2
+Given Deadline = 38
+--------------------------------------------------------------
+
+Details of Schedule:
+Node_ID	Start_Time	Finish_Time	Execution_Time	Resource_ID
+--------------------------------------------------------------
+T1		1		7		7		P2
+M11		15		17		3		B2
+M12		23		29		7		B2
+T2		12		17		6		P1
+T3		8		12		5		P2
+T4		13		22		10		P2
+T5		18		29		12		P1
+T6		30		35		6		P1
+M7		8		11		4		B2
+--------------------------------------------------------------
+Total variables = 1386
+Program Execution Time = 0.0932350158691 Seconds
+Schedule Length = 35.0
+--------------------------------------------------------------
+Number of Constraints = 3725 
+

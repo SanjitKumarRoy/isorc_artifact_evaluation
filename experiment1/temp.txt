@@ -1,0 +1,156 @@
+ILP is running on graph ./inputFiles/ptg1.txt
+ Objective_Function#4673:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+Middle ILP is running on graph ./inputFiles/ptg1.txt
+ Objective_Function#4104:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+ILP is running on graph ./inputFiles/ptg2.txt
+ Objective_Function#8726:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+Middle ILP is running on graph ./inputFiles/ptg2.txt
+ Objective_Function#7917:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP is running on graph ./inputFiles/ptg3.txt
+ Objective_Function#7917:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+Middle ILP is running on graph ./inputFiles/ptg3.txt
+ Objective_Function#7917:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP is running on graph ./inputFiles/ptg4.txt
+ Objective_Function#7917:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+Middle ILP is running on graph ./inputFiles/ptg4.txt
+ Objective_Function#7917:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP is running on graph ./inputFiles/ptg5.txt
+ Objective_Function#7917:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+Middle ILP is running on graph ./inputFiles/ptg5.txt
+ Objective_Function#7917:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP is running on graph ./inputFiles/ptg6.txt
+ Objective_Function#7917:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+Middle ILP is running on graph ./inputFiles/ptg6.txt
+ Objective_Function#7917:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP is running on graph ./inputFiles/ptg1.txt
+ Objective_Function#4673:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+Middle ILP is running on graph ./inputFiles/ptg1.txt
+ Objective_Function#4104:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+ILP is running on graph ./inputFiles/ptg2.txt
+ Objective_Function#8726:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+Middle ILP is running on graph ./inputFiles/ptg2.txt
+ Objective_Function#7917:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP is running on graph ./inputFiles/ptg3.txt
+ Objective_Function#28591:       Z - 39 x8,1,27 - 40 x8,1,28 - 41 x8,1,29
+Middle ILP is running on graph ./inputFiles/ptg3.txt
+ Objective_Function#26908:       Z - 39 x8,1,27 - 40 x8,1,28 - 41 x8,1,29
+ILP1 is running on ./inputFiles/ptg1.txt
+ Objective_Function#4673:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+ILP2 is running on ./inputFiles/ptg1.txt
+ Objective_Function#4104:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+ILP1 is running on ./inputFiles/ptg2.txt
+ Objective_Function#8726:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP2 is running on ./inputFiles/ptg2.txt
+ Objective_Function#7917:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP1 is running on ./inputFiles/ptg3.txt
+ Objective_Function#28591:       Z - 39 x8,1,27 - 40 x8,1,28 - 41 x8,1,29
+ILP2 is running on ./inputFiles/ptg3.txt
+ Objective_Function#26908:       Z - 39 x8,1,27 - 40 x8,1,28 - 41 x8,1,29
+ILP1 is running on ./inputFiles/ptg1.txt
+ Objective_Function#4673:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+ILP2 is running on ./inputFiles/ptg1.txt
+ Objective_Function#4104:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+ILP1 is running on ./inputFiles/ptg2.txt
+ Objective_Function#8726:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP2 is running on ./inputFiles/ptg2.txt
+ Objective_Function#7917:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP1 is running on ./inputFiles/ptg3.txt
+ Objective_Function#28591:       Z - 39 x8,1,27 - 40 x8,1,28 - 41 x8,1,29
+ILP2 is running on ./inputFiles/ptg3.txt
+ Objective_Function#26908:       Z - 39 x8,1,27 - 40 x8,1,28 - 41 x8,1,29
+ILP1 is running on ./inputFiles/ptg1.txt
+ Objective_Function#4673:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+ILP2 is running on ./inputFiles/ptg1.txt
+ Objective_Function#4104:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+ILP1 is running on ./inputFiles/ptg2.txt
+ Objective_Function#8726:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP2 is running on ./inputFiles/ptg2.txt
+ Objective_Function#7917:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP1 is running on ./inputFiles/ptg3.txt
+ Objective_Function#28591:       Z - 39 x8,1,27 - 40 x8,1,28 - 41 x8,1,29
+ILP2 is running on ./inputFiles/ptg3.txt
+ Objective_Function#26908:       Z - 39 x8,1,27 - 40 x8,1,28 - 41 x8,1,29
+ILP1 is running on ./inputFiles/ptg1.txt
+ Objective_Function#4673:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+ILP2 is running on ./inputFiles/ptg1.txt
+ Objective_Function#4104:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+ILP1 is running on ./inputFiles/ptg2.txt
+ Objective_Function#8726:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP2 is running on ./inputFiles/ptg2.txt
+ Objective_Function#7917:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP1 is running on ./inputFiles/ptg3.txt
+ Objective_Function#28591:       Z - 39 x8,1,27 - 40 x8,1,28 - 41 x8,1,29
+ILP2 is running on ./inputFiles/ptg3.txt
+ Objective_Function#26908:       Z - 39 x8,1,27 - 40 x8,1,28 - 41 x8,1,29
+ILP1 is running on ./inputFiles/ptg1.txt
+ Objective_Function#4673:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+ILP2 is running on ./inputFiles/ptg1.txt
+ Objective_Function#4104:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+ILP1 is running on ./inputFiles/ptg2.txt
+ Objective_Function#8726:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP2 is running on ./inputFiles/ptg2.txt
+ Objective_Function#7917:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP1 is running on ./inputFiles/ptg3.txt
+ Objective_Function#28591:       Z - 39 x8,1,27 - 40 x8,1,28 - 41 x8,1,29
+ILP2 is running on ./inputFiles/ptg3.txt
+ Objective_Function#26908:       Z - 39 x8,1,27 - 40 x8,1,28 - 41 x8,1,29
+ILP1 is running on ./inputFiles/ptg1.txt
+ Objective_Function#4680:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+ILP2 is running on ./inputFiles/ptg1.txt
+ Objective_Function#4104:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+ILP1 is running on ./inputFiles/ptg2.txt
+ Objective_Function#8733:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP2 is running on ./inputFiles/ptg2.txt
+ Objective_Function#7917:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP1 is running on ./inputFiles/ptg3.txt
+ Objective_Function#28600:       Z - 39 x8,1,27 - 40 x8,1,28 - 41 x8,1,29
+ILP2 is running on ./inputFiles/ptg3.txt
+ Objective_Function#26908:       Z - 39 x8,1,27 - 40 x8,1,28 - 41 x8,1,29
+ILP1 is running on ./inputFiles/ptg1.txt
+ Objective_Function#4680:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+ILP2 is running on ./inputFiles/ptg1.txt
+ Objective_Function#4104:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+ILP1 is running on ./inputFiles/ptg2.txt
+ Objective_Function#8733:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP2 is running on ./inputFiles/ptg2.txt
+ Objective_Function#7917:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP1 is running on ./inputFiles/ptg3.txt
+ Objective_Function#28600:       Z - 39 x8,1,27 - 40 x8,1,28 - 41 x8,1,29
+ILP2 is running on ./inputFiles/ptg3.txt
+ Objective_Function#26908:       Z - 39 x8,1,27 - 40 x8,1,28 - 41 x8,1,29
+ILP1 is running on ./inputFiles/ptg1.txt
+ Objective_Function#4680:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+ILP2 is running on ./inputFiles/ptg1.txt
+ Objective_Function#4104:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+ILP1 is running on ./inputFiles/ptg2.txt
+ Objective_Function#8733:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP2 is running on ./inputFiles/ptg2.txt
+ Objective_Function#7917:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP1 is running on ./inputFiles/ptg3.txt
+ Objective_Function#28600:       Z - 39 x8,1,27 - 40 x8,1,28 - 41 x8,1,29
+ILP2 is running on ./inputFiles/ptg3.txt
+ Objective_Function#26908:       Z - 39 x8,1,27 - 40 x8,1,28 - 41 x8,1,29
+ILP1 is running on ./inputFiles/ptg1.txt
+ Objective_Function#4680:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+ILP2 is running on ./inputFiles/ptg1.txt
+ Objective_Function#4111:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+ILP1 is running on ./inputFiles/ptg2.txt
+ Objective_Function#8733:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP2 is running on ./inputFiles/ptg2.txt
+ Objective_Function#7924:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP1 is running on ./inputFiles/ptg3.txt
+ Objective_Function#7924:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP2 is running on ./inputFiles/ptg3.txt
+ Objective_Function#7924:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP1 is running on ./inputFiles/ptg1.txt
+ Objective_Function#4680:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+ILP2 is running on ./inputFiles/ptg1.txt
+ Objective_Function#4111:        Z - 29 x6,1,22 - 30 x6,1,23 - 31 x6,1,24
+ILP1 is running on ./inputFiles/ptg2.txt
+ Objective_Function#8733:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP2 is running on ./inputFiles/ptg2.txt
+ Objective_Function#7924:        Z - 30 x6,1,25 - 31 x6,1,26 - 32 x6,1,27
+ILP1 is running on ./inputFiles/ptg3.txt
+ Objective_Function#28600:       Z - 39 x8,1,27 - 40 x8,1,28 - 41 x8,1,29
+ILP2 is running on ./inputFiles/ptg3.txt
+ Objective_Function#26917:       Z - 39 x8,1,27 - 40 x8,1,28 - 41 x8,1,29

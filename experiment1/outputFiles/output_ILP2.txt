@@ -1,0 +1,14 @@
+InputFile	TotalNodes	#TaskNodes	#MessageNodes	#Processors	#Buses	CCR	Deadline	OptimalScheduleLength	ExecutionTime(second)	NumberOfConstraint
+
+./inputFiles/ptg1.txt	13	6	7	4	2	0.5	32	32.0	0.0799	4112
+
+./inputFiles/ptg2.txt	13	6	7	4	2	0.507	37	37.0	0.1096	7925
+
+./inputFiles/ptg3.txt	17	8	9	4	2	0.5	46	42.0	2.9167	26918
+
+./inputFiles/ptg4.txt	25	10	15	4	2	0.501	42	38.0	7.9179	46064
+
+./inputFiles/ptg5.txt	33	14	19	4	2	0.5	80	72.0	20.5665	141512
+
+./inputFiles/ptg6.txt	40	16	24	4	2	0.5	72	67.0	704.74	218535
+
