@@ -1,0 +1,1 @@
+./inputFiles/case_study.txt	49	21	28	4	2	0.054	150	146.0	47343.6724
