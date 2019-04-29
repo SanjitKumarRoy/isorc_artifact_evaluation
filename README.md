@@ -1,9 +1,17 @@
-#ISORC'19 Artifact Evaluation
-###Paper Title: Optimal Scheduling of Precedence-constrained Task Graphs on Heterogeneous Distributed Systems with Shared Buses
-###Author: Sanjit Kumar Roy, Sayani Sinha, Kankana Maji, Rajesh Devaraj and Arnab Sarkar
+ISORC'19 Artifact Evaluation
+=============================
 
-##A. Artifact Appendix
-###A.1 Abstract
+Paper Title: Optimal Scheduling of Precedence-constrained Task Graphs on Heterogeneous Distributed Systems with Shared Buses
+------------------------------------------------------------------------------------------------------------------------------
+
+Author: Sanjit Kumar Roy, Sayani Sinha, Kankana Maji, Rajesh Devaraj and Arnab Sarkar
+----------------------------------------------------------------------------------------
+
+A. Artifact Appendix
+--------------------
+
+A.1 Abstract
+------------
 
 In this artifact, we provided all the benchmark PTGs (Precedence Constrained Task Graphs) along with program and shell script to regenerate the output results.
 
