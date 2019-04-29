@@ -104,7 +104,7 @@ Once the experiments are done the results will be displayed on the screen. Furth
 Scripts are available to run all the experiments together as well as separately. 
 
 ### A.8 Notes
-* In the output schedule, the *time step t* is the time between *t-1* and *t* (where *t = 1, 2, ...*). For example, let start and finish times of a task in the output schedule are 1 and 7, respectively. In the Gantt chart representation, the start and finish times will be 0 and 7, respectively.
+* In the output schedule, the *time step t* is the time between *t - 1* and *t* (where *t = 1, 2, ...*). For example, let start and finish times of a task in the output schedule are 1 and 7, respectively. In the Gantt chart representation, the start and finish times will be 0 and 7, respectively.
 
 * The IBM CPLEX supports both multithreaded and distributed parallel optimization. The implementation of CPLEX on multiprocessor system will be beneficial in terms of solution speed.
 
