@@ -4,7 +4,6 @@
 
 ## A. Artifact Appendix
 ### A.1 Abstract
-
 In this artifact, we provided all the benchmark PTGs (Precedence Constrained Task Graphs) along with program and shell script to regenerate the output results.
 
 ### A.2 Artifact check-list (meta-information)
@@ -105,9 +104,9 @@ Once the experiments are done the results will be displayed on the screen. Furth
 Scripts are available to run all the experiments together as well as separately. 
 
 ### A.8 Notes
-In the output schedule, the <i>time step t</i> is the time between <i>t-1</i> and <i>t</i> (where <i>t = 1, 2, ...</i>). For example, let start and finish times of a task in the output schedule are 1 and 7, respectively. In the Gantt chart representation, the start and finish times will be 0 and 7, respectively.
+* In the output schedule, the <i>time step t</i> is the time between <i>t-1</i> and <i>t</i> (where <i>t = 1, 2, ...</i>). For example, let start and finish times of a task in the output schedule are 1 and 7, respectively. In the Gantt chart representation, the start and finish times will be 0 and 7, respectively.
 
-The IBM CPLEX supports both multithreaded and distributed parallel optimization. The implementation of CPLEX on multiprocessor system will be beneficial in terms of solution speed.
+* The IBM CPLEX supports both multithreaded and distributed parallel optimization. The implementation of CPLEX on multiprocessor system will be beneficial in terms of solution speed.
 
 ### A.9 Methodology
 The artifact of this paper reviewed according to the guidelines at:
