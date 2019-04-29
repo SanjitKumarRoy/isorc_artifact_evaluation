@@ -1,21 +1,13 @@
-ISORC'19 Artifact Evaluation
-=============================
+# ISORC'19 Artifact Evaluation
+### Paper Title: Optimal Scheduling of Precedence-constrained Task Graphs on Heterogeneous Distributed Systems with Shared Buses
+### Author: Sanjit Kumar Roy, Sayani Sinha, Kankana Maji, Rajesh Devaraj and Arnab Sarkar
 
-Paper Title: Optimal Scheduling of Precedence-constrained Task Graphs on Heterogeneous Distributed Systems with Shared Buses
-------------------------------------------------------------------------------------------------------------------------------
-
-Author: Sanjit Kumar Roy, Sayani Sinha, Kankana Maji, Rajesh Devaraj and Arnab Sarkar
-----------------------------------------------------------------------------------------
-
-A. Artifact Appendix
---------------------
-
-A.1 Abstract
-------------
+## A. Artifact Appendix
+### A.1 Abstract
 
 In this artifact, we provided all the benchmark PTGs (Precedence Constrained Task Graphs) along with program and shell script to regenerate the output results.
 
-###A.2 Artifact check-list (meta-information)
+### A.2 Artifact check-list (meta-information)
 * **Program:** ILP1.py and ILP2.py
 
 * **Binary:** Source code and shell scripts are available.
@@ -40,20 +32,20 @@ In this artifact, we provided all the benchmark PTGs (Precedence Constrained Tas
   
 * **Publicly available?:** IBM CPLEX optimizer is not publicly available. But source code for out ILP formulation and the data are available on Github: <https://github.com/SanjitKumarRoy/isorc_artifact_evaluation>
 
-###A.3 Description
+### A.3 Description
 
-###A.3.1 How delivered
+### A.3.1 How delivered
 Our benchmark PTGs, source code, scripts are available on Github: 
 <https://github.com/SanjitKumarRoy/isorc_artifact_evaluation>
 
 
-###A.3.2 Hardware dependencies
+### A.3.2 Hardware dependencies
 All the experiments are carried out on a system having Intel(R) Xeon(R) CPU. 
 
-###A.3.3 Software dependencies
+### A.3.3 Software dependencies
 We use IBM CPLEX optimizer version 12.6.2.0 running on Linux Kernel 2.6.32-042stab123.1.
 
-###A.4 Installation
+### A.4 Installation
 To install the CPLEX optimizer in Ubuntu first get the binary version of the IBM CPLEX optimizer and then run the following commands:
 ```
 $ chmod +x cplex_studioXXX.linux-x86.bin
@@ -66,7 +58,7 @@ $ python setup.py install
 For additional information please see: <https://www.ibm.com/support/knowledgecenter/SSSA5P\_12.8.0/ilog.odms.studio.help/pdf/gscplex.pdf>
 
 
-###A.5 Experiment workflow
+### A.5 Experiment workflow
 After installation of the IBM CPLEX optimizer, you can run all the experiments using the following command:
 ```
 $ ./run_all_experiment.sh
@@ -106,16 +98,17 @@ Case Study
 ./case_study/outputFiles/case_study_ILP2.txt
 ```
 
-###A.6 Evaluation and expected result
+### A.6 Evaluation and expected result
 Once the experiments are done the results will be displayed on the screen. Further, you can see the output of the experiments in the above mentioned output files.
 
-###A.7 Experiment customization
+### A.7 Experiment customization
 Scripts are available to run all the experiments together as well as separately. 
 
-###A.8 Notes
+### A.8 Notes
 In the output schedule, the <i>time step t</i> is the time between <i>t-1</i> and <i>t</i> (where <i>t = 1, 2, ...</i>). For example, let start and finish times of a task in the output schedule are 1 and 7, respectively. In the Gantt chart representation, the start and finish times will be 0 and 7, respectively.
 
 The IBM CPLEX supports both multithreaded and distributed parallel optimization. The implementation of CPLEX on multiprocessor system will be beneficial in terms of solution speed.
 
-###A.9 Methodology
-The artifact of this paper reviewed according to the guidelines at: <http://ctuning.org/ae/reviewing-20190108.html>
+### A.9 Methodology
+The artifact of this paper reviewed according to the guidelines at:
+<http://ctuning.org/ae/reviewing-20190108.html>
